@@ -1,0 +1,13 @@
+{
+  "smooth_sigma": 0.5,
+  "edge_boundary": 6,
+  "min_relative_intensity": 0.005,
+  "min_absolute_intensity": 1000.0,
+  "min_peak_spacing": 5,
+  "max_num_peaks": 50,
+  "gaussian_radius": 2,
+  "refine": true,
+  "refine_method": "centroid",
+  "num_workers": 4,
+  "use_gpu": true
+}
